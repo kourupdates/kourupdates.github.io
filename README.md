@@ -14,7 +14,7 @@
             background-size: cover;
             background-attachment: scroll;
             background-color: #f0f0f0; 
-            color: #FFFFFF; 
+            color: #000000; 
             font-family: Arial, sans-serif;
             margin: 20px;
             line-height: 1.6;
